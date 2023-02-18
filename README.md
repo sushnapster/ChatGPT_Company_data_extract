@@ -1,0 +1,1 @@
+# ChatGPT_Company_data_extract
